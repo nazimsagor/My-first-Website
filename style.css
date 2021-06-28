@@ -1,0 +1,221 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+    font-size: 30px;
+   
+}
+ul{
+    margin: 0px;
+    padding: 20px 20px 20px 0px;
+    list-style: none;
+    text-align: right;
+}
+li{
+    display: inline-block;
+    margin-right: 50px;
+
+}
+li a{
+    text-decoration: none;
+    color:gray ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+h2{
+   color: tomato;
+   font-weight: 900;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    color: gray;
+}
+
+
+
+    
+
+h5{
+    padding-right: 100px;
+}
+section{
+    height: 200px;
+    padding-bottom: 450px;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+    
+}
+
+
+
+.half-width{
+    float:left;
+    width: 50%;
+    height: 5px;
+    
+    
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(60deg, lightsalmon, tomato);
+    border-radius: 10px;
+    color:white ;
+    font-weight: medium;
+    padding: 20px 20px;
+    font-size: 20px;
+}
+span{
+    color: tomato;
+    text-align: center;
+    
+}
+.work{
+    
+    text-align: center;
+    
+    margin: 0px;
+    
+    padding-top: 400px;
+    width: auto;
+    height: auto;
+    background-color: #FFF7F7;
+    overflow:auto;
+
+    
+}
+#project{
+    background-size: 90%;
+    background-color: #F8F9FC;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 180px;
+    
+}
+#project h1{
+    font-size: 70px;
+}
+#achieve{
+    padding-left: 200px;
+    padding-right: 180px;
+}
+
+
+.third-width{
+    background: whitesmoke;
+    float: left;
+    margin: 0px;
+    width: 31%;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 10px;
+    color: 363958; 
+    height: 70%;
+    margin-top: 200px;
+    
+    
+}
+.third-width img{
+    width: 90%;
+    
+}
+.certificate{
+    text-align: center;
+    
+    
+    
+    
+    
+}
+.certificate img{
+    margin-top: 10px;
+    width: 80%;
+}
+.certificate h1{
+    text-align: center;
+    font-size: 70px;
+    color: tomato;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+h4{
+    color: teal; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.third-width p{
+    color: lightpink;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.work-inquiry {
+    width: 1200px;
+    height: 300px;
+    background-image: url(images/Group_33094_1.png);
+    background-size: 100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+ 
+    
+}
+.inquiry{
+    padding: 150px 0;
+    
+    text-align:center;
+}
+.work-inquiry p{
+    color: white;
+    float: left;
+    margin-left: 80px;
+    margin-top: 100px;
+    font-weight: 1000;
+    font-size: 80px;
+}
+.work-inquiry a{
+    margin-top: 120px;
+    float: right;
+    margin-right: 30px;
+    width: 200px;
+    
+}
+.connected{
+    text-align: center;
+}
+.gmail a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+.gmail p{
+    font-family: sans-serif;
+    color: burlywood;
+}
+
+.logo{
+    width: 30%;
+    margin: 0 auto;
+    padding-bottom: 150px;
+    padding-left: 200px;
+}
+.logo img{
+    float: left;
+    width: 10%;
+    margin: 10% 6%;
+    
+    
+}
+
+
+
+    
+
